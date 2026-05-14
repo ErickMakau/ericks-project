@@ -1,0 +1,8 @@
+{
+  "name": "Strathmore ICT Secure Credentials",
+  "description": "A secure credential sharing platform with role-based access control and encrypted data protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
